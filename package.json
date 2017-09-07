@@ -3,7 +3,8 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "^3.0.1",
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "holderjs": "^2.9.4"
   },
   "devDependencies": {
     "webpack-dev-server": "^2.7.1"

@@ -12,5 +12,6 @@
 //
 //= require rails-ujs
 //= require bootstrap/dist/js/bootstrap.min.js
+//= require holderjs/holder.min.js
 //= require turbolinks
 //= require_tree .
